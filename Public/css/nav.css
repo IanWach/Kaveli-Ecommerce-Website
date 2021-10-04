@@ -20,7 +20,7 @@
     justify-content: space-between;
 }
 .brand-logo{
-    height: 60px;
+    height: 100px;
 }
 
 .nav-items{
@@ -29,7 +29,7 @@
 }
 
 .search{
-    width: 500px;
+    width: 500PX;
     display: flex;
 }
 
@@ -91,4 +91,9 @@
 
 .link:hover{
     opacity: 1;
+}
+
+
+@media only screen and (max-width: 785px) {
+  
 }
